@@ -21,6 +21,9 @@
   align-items: center;
   border-radius: 24px;
 }
+.header__searchInput{
+  width: 95%;
+}
 
 .header__searchIcon {
   padding: 5px;
